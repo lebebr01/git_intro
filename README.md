@@ -4,3 +4,6 @@
 
 # Setup
 - First add, then commit.
+
+# GitHub Location
+<https://github.com/lebebr01/git_intro.git>

@@ -5,5 +5,10 @@
 # Setup
 - First add, then commit.
 
+# Tools used
+- R
+- git
+- ggplot2
+
 # GitHub Location
 <https://github.com/lebebr01/git_intro.git>
